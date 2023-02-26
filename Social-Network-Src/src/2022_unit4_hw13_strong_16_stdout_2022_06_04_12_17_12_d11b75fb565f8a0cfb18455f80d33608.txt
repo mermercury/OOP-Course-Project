@@ -1,0 +1,12 @@
+Ok, attributes in class "Class1" has coupling degree 4.
+Ok, attributes in class "Class2" has coupling degree 4.
+Ok, attributes in class "Class3" has coupling degree 4.
+Ok, attributes in class "Class4" has coupling degree 7.
+Ok, attributes in class "Class5" has coupling degree 4.
+Ok, attributes in class "Class6" has coupling degree 3.
+Ok, attributes in class "Class7" has coupling degree 7.
+Failed, duplicated class "Class8".
+Ok, attributes in class "Class9" has coupling degree 3.
+Ok, attributes in class "Class10" has coupling degree 4.
+Failed, class "Class11" not found
+Ok, attributes in class "Class12" has coupling degree 0.
